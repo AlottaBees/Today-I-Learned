@@ -3,9 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@babel/plugin-transform-class-properties": "^7.23.3",
-    "@babel/plugin-transform-numeric-separator": "^7.23.4",
-    "@babel/plugin-transform-private-methods": "^7.23.3",
     "@supabase/supabase-js": "^2.39.3",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -18,9 +15,6 @@
     "types": "^0.1.1",
     "util": "^0.12.5",
     "web-vitals": "^2.1.4"
-  },
-  "resolutions": {
-    "nth-check": "^2.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
